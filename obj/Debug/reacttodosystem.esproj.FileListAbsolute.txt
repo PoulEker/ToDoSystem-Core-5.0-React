@@ -1,0 +1,4 @@
+C:\Users\Poul Eker.FOCUSIT\OneDrive - Focus It\Projekter\ToDoSystem-Core-5.0\reactToDoSystem\reactToDoSystem\obj\Debug\reacttodosystem.esproj.SuggestedBindingRedirects.cache
+C:\Users\Poul Eker.FOCUSIT\OneDrive - Focus It\Projekter\ToDoSystem-Core-5.0\reactToDoSystem\reactToDoSystem\obj\Debug\reacttodosystem.esproj.CoreCompileInputs.cache
+C:\Users\Poul Eker.FOCUSIT\OneDrive - Focus It\Projekter\ToDoSystem-Core-5.0\todoreact\obj\Debug\reacttodosystem.esproj.SuggestedBindingRedirects.cache
+C:\Users\Poul Eker.FOCUSIT\OneDrive - Focus It\Projekter\ToDoSystem-Core-5.0\todoreact\obj\Debug\reacttodosystem.esproj.CoreCompileInputs.cache
